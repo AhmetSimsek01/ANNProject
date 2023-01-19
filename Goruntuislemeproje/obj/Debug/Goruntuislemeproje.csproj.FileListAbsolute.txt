@@ -1,0 +1,11 @@
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\bin\Debug\Goruntuislemeproje.exe.config
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\bin\Debug\Goruntuislemeproje.exe
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\bin\Debug\Goruntuislemeproje.pdb
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.csprojAssemblyReference.cache
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.Form1.resources
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.Properties.Resources.resources
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.csproj.GenerateResource.cache
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.exe
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.pdb
+C:\Users\AHMET\source\repos\Goruntuislemeproje\Goruntuislemeproje\obj\Debug\Goruntuislemeproje.Perspektif.resources
